@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Surprise0-0
 - 👀 I’m interested in Coding and Technology
-- 🌱 I’m currently learning Gamedevelopment
+- 🌱 I’m currently learning Game_development
 - 💞️ I’m looking to collaborate with team
 - 📫 How to reach me ...
 
