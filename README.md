@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Surprise0-0
+- 👋 Hi, I’m Ahmed Elzanaty
 - 👀 I’m interested in Coding and Technology
-- 🌱 I’m currently learning Game_development
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate with team
 - 📫 How to reach me ...
 
