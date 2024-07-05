@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ahmed Elzanaty
 - 👀 I’m interested in Coding and Technology
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate with team
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me ...
 
 <!---
