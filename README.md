@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ahmed Elzanaty
-- 👀 I’m interested in Coding and Technology
+- 👀 I’m interested in Programming and Technology
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me ...
